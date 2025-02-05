@@ -49,7 +49,7 @@ int main(){
 
 
     PopulationConfig config;
-    config.elite_factor = 0.1f;
+    config.elite_factor = 0.1f;;
     config.crossover_rate = 0.8f;
     config.mutation_rate = 0.3f;
 
